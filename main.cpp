@@ -57,8 +57,8 @@ int main(int argc, char* args[]) {
         return 1;
     }
 
-    Circulo bola1(100, 300, 20, 4, -3);
-    Circulo bola2(400, 300, 20, -2, 2);
+    Circulo bola1(100, 300, 40, 9, -3);
+    Circulo bola2(400, 300, 40, 5, 2);
     Mesa mesa(100, 100, 600, 400);
 
     bool sair = false;

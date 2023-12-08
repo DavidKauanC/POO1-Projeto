@@ -1,4 +1,4 @@
-// Circulo.hpp
+// cicle.h
 #ifndef CIRCULO_H
 #define CIRCULO_H
 
@@ -22,4 +22,4 @@ private:
     float dx, dy;
 };
 
-#endif // CIRCULO_HPP
+#endif // CIRCULO_H

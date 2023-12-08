@@ -1,4 +1,4 @@
-// Circulo.cpp
+// circle.cpp
 #include "circle.h"
 #include <cmath>
 
